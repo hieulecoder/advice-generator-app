@@ -11,11 +11,9 @@ const App = () => {
 
   const getAdvice = useCallback(() => {
     setIsLoading(true);
-    console.log("getting advice");
     fetch("https://api.adviceslip.com/advice")
       .then((response) => response.json())
       .then(({ slip }) => {
-        console.log(slip);
         setAdvice({ id: slip.id, advice: slip.advice });
         setTimeout(() => setIsLoading(false), 1000);
       });
