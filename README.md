@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/hieuhmle/advice-generator-app)
-- Live Site URL: [Live site](https://hieuhmle.github.io/advice-generator-app/)
+- Live Site URL: [Live site](https://hieulecoder.github.io/advice-generator-app/)
 
 ## My process
 
