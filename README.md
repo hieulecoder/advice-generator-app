@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/hieuhmle/advice-generator-app)
+- Solution URL: [Github Repo](https://github.com/hieulecoder/advice-generator-app)
 - Live Site URL: [Live site](https://hieulecoder.github.io/advice-generator-app/)
 
 ## My process
